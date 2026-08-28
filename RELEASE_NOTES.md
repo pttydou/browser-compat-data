@@ -1,5 +1,21 @@
 # @mdn/browser-compat-data release notes
 
+## [v8.0.14](https://github.com/mdn/browser-compat-data/releases/tag/v8.0.14)
+
+August 28, 2026
+
+### Additions
+
+- `api.WebTransport.WebTransport.options_protocols_parameter` ([#30351](https://github.com/mdn/browser-compat-data/pull/30351))
+- `browsers.edge.releases.155` ([#30352](https://github.com/mdn/browser-compat-data/pull/30352))
+
+### Statistics
+
+- 3 contributors have changed 4 files with 94 additions and 54 deletions in 5 commits ([`v8.0.13...v8.0.14`](https://github.com/mdn/browser-compat-data/compare/v8.0.13...v8.0.14))
+- 20,360 total features
+- 1,268 total contributors
+- 5,729 total stargazers
+
 ## [v8.0.13](https://github.com/mdn/browser-compat-data/releases/tag/v8.0.13)
 
 August 27, 2026
